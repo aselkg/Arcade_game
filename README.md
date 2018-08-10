@@ -8,3 +8,8 @@ Frogger was positively received and followed by several clones and sequels. By 2
 ## Instructions:
 
  The game's objective is to move a player from the bottom to top and overcome the bugs that come in your way. The game's screen is divided into two halves, where the first half featured a road full of enemy while the second half is a river. When you are moving your player through the road, you have to face speeding bugs, to win you need to reach water, avoiding the bugs.The player can move left, right, up and down.
+ 
+ ##How to Play:
+ 
+Click [here]https://aselkg.github.io/arcade_game/ to open the game.
+
