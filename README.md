@@ -11,5 +11,5 @@ Frogger was positively received and followed by several clones and sequels. By 2
  
  ##How to Play:
  
-Click [here]https://aselkg.github.io/arcade_game/ to open the game.
+Click https://aselkg.github.io/arcade_game/ to open the game.
 
